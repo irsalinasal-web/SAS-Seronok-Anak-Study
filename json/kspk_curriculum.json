@@ -1,0 +1,97 @@
+{
+  "huruf23": {
+    "focus": "Mengenal bentuk huruf besar dan objek harian",
+    "items": [
+      { "huruf": "A", "perkataan": "Ayam", "ikon": "🐔", "warna": "#EF4444" },
+      { "huruf": "B", "perkataan": "Bola", "ikon": "⚽", "warna": "#3B82F6" },
+      { "huruf": "C", "perkataan": "Cawan", "ikon": "☕", "warna": "#10B981" },
+      { "huruf": "D", "perkataan": "Daun", "ikon": "🍃", "warna": "#059669" },
+      { "huruf": "E", "perkataan": "Epal", "ikon": "🍎", "warna": "#DC2626" },
+      { "huruf": "I", "perkataan": "Ikan", "ikon": "🐟", "warna": "#06B6D4" },
+      { "huruf": "K", "perkataan": "Kucing", "ikon": "🐱", "warna": "#EC4899" },
+      { "huruf": "M", "perkataan": "Mata", "ikon": "👀", "warna": "#6366F1" }
+    ]
+  },
+  "huruf34": {
+    "focus": "Mengecam bunyi awal fonik dan padanan perkataan",
+    "items": [
+      { "huruf": "A", "perkataan": "Ayam", "fonik": "ah", "ikon": "🐔" },
+      { "huruf": "B", "perkataan": "Buku", "fonik": "beh", "ikon": "📚" },
+      { "huruf": "C", "perkataan": "Ciku", "fonik": "ceh", "ikon": "🥔" },
+      { "huruf": "D", "perkataan": "Dadu", "fonik": "deh", "ikon": "🎲" },
+      { "huruf": "G", "perkataan": "Gigi", "fonik": "geh", "ikon": "🦷" },
+      { "huruf": "K", "perkataan": "Kopi", "fonik": "keh", "ikon": "☕" },
+      { "huruf": "L", "perkataan": "Lori", "fonik": "leh", "ikon": "🚛" },
+      { "huruf": "T", "perkataan": "Topi", "fonik": "teh", "ikon": "🧢" }
+    ]
+  },
+  "huruf45": {
+    "focus": "Suku kata terbuka (KV) dan pembentukan dua suku kata (KVKV)",
+    "items": [
+      { "perkataan": "Bola", "s1": "Bo", "s2": "la", "ikon": "⚽" },
+      { "perkataan": "Buku", "s1": "Bu", "s2": "ku", "ikon": "📚" },
+      { "perkataan": "Kuda", "s1": "Ku", "s2": "da", "ikon": "🐴" },
+      { "perkataan": "Meja", "s1": "Me", "s2": "ja", "ikon": "🪑" },
+      { "perkataan": "Roti", "s1": "Ro", "s2": "ti", "ikon": "🍞" },
+      { "perkataan": "Susu", "s1": "Su", "s2": "su", "ikon": "🥛" },
+      { "perkataan": "Pasu", "s1": "Pa", "s2": "su", "ikon": "🏺" },
+      { "perkataan": "Nasi", "s1": "Na", "s2": "si", "ikon": "🍚" }
+    ]
+  },
+  "huruf56": {
+    "focus": "Membaca dan mengeja perkataan serta pemahaman ayat mudah",
+    "items": [
+      { "perkataan": "Harimau", "suku": ["Ha", "ri", "mau"], "ayat": "Harimau belang pantas.", "ikon": "🐯" },
+      { "perkataan": "Sekolah", "suku": ["Se", "ko", "lah"], "ayat": "Saya suka pergi sekolah.", "ikon": "🏫" },
+      { "perkataan": "Bintang", "suku": ["Bin", "tang"], "ayat": "Bintang berkerlipan di langit.", "ikon": "⭐" },
+      { "perkataan": "Pelangi", "suku": ["Pe", "lan", "gi"], "ayat": "Pelangi ada tujuh warna.", "ikon": "🌈" }
+    ]
+  },
+  "nombor23": {
+    "focus": "Mengecam kuantiti 1 hingga 5 dan koordinasi mengira objek",
+    "items": [
+      { "nombor": 1, "perkataan": "Satu", "objek": "Bintang", "ikon": "⭐" },
+      { "nombor": 2, "perkataan": "Dua", "objek": "Epal", "ikon": "🍎" },
+      { "nombor": 3, "perkataan": "Tiga", "objek": "Kereta", "ikon": "🚗" },
+      { "nombor": 4, "perkataan": "Empat", "objek": "Ikan", "ikon": "🐟" },
+      { "nombor": 5, "perkataan": "Lima", "objek": "Pisang", "ikon": "🍌" }
+    ]
+  },
+  "nombor34": {
+    "focus": "Mengecam kuantiti 1 hingga 10 dan padanan angka",
+    "items": [
+      { "nombor": 1, "perkataan": "Satu", "objek": "Bintang", "ikon": "⭐" },
+      { "nombor": 2, "perkataan": "Dua", "objek": "Epal", "ikon": "🍎" },
+      { "nombor": 3, "perkataan": "Tiga", "objek": "Kereta", "ikon": "🚗" },
+      { "nombor": 4, "perkataan": "Empat", "objek": "Ikan", "ikon": "🐟" },
+      { "nombor": 5, "perkataan": "Lima", "objek": "Pisang", "ikon": "🍌" },
+      { "nombor": 6, "perkataan": "Enam", "objek": "Bunga", "ikon": "🌸" },
+      { "nombor": 7, "perkataan": "Tujuh", "objek": "Gula-gula", "ikon": "🍭" },
+      { "nombor": 8, "perkataan": "Lapan", "objek": "Belon", "ikon": "🎈" },
+      { "nombor": 9, "perkataan": "Sembilan", "objek": "Strawberi", "ikon": "🍓" },
+      { "nombor": 10, "perkataan": "Sepuluh", "objek": "Aiskrim", "ikon": "🍦" }
+    ]
+  },
+  "warna23": {
+    "focus": "Mengenal warna primer dan sekunder",
+    "items": [
+      { "warna": "Merah", "kod": "#EF4444", "contoh": "Epal Merah", "ikon": "🔴" },
+      { "warna": "Biru", "kod": "#3B82F6", "contoh": "Langit Biru", "ikon": "🔵" },
+      { "warna": "Kuning", "kod": "#EAB308", "contoh": "Pisang Kuning", "ikon": "🟡" },
+      { "warna": "Hijau", "kod": "#10B981", "contoh": "Daun Hijau", "ikon": "🟢" },
+      { "warna": "Jingga", "kod": "#F97316", "contoh": "Buah Oren", "ikon": "🟠" },
+      { "warna": "Ungu", "kod": "#A855F7", "contoh": "Buah Anggur", "ikon": "🟣" }
+    ]
+  },
+  "haiwan23": {
+    "focus": "Mengenal haiwan, bunyi dan pergerakan",
+    "items": [
+      { "nama": "Kucing", "bunyi": "Meow", "habitat": "Darat", "makanan": "Ikan", "ikon": "🐱" },
+      { "nama": "Gajah", "bunyi": "Pawoo", "habitat": "Darat", "makanan": "Tumbuhan", "ikon": "🐘" },
+      { "nama": "Singa", "bunyi": "Roar", "habitat": "Darat", "makanan": "Daging", "ikon": "🦁" },
+      { "nama": "Ikan", "bunyi": "Gloop", "habitat": "Air", "makanan": "Plankton", "ikon": "🐟" },
+      { "nama": "Burung", "bunyi": "Ciap ciap", "habitat": "Udara", "makanan": "Biji Benih", "ikon": "🐦" },
+      { "nama": "Itik", "bunyi": "Kuek kuek", "habitat": "Air & Darat", "makanan": "Ikan Kecil", "ikon": "🦆" }
+    ]
+  }
+}

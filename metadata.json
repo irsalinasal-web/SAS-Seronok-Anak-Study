@@ -1,0 +1,6 @@
+{
+  "name": "S.A.S - Seronok Anak Study",
+  "description": "Aplikasi pendidikan premium kanak-kanak prasekolah Malaysia berteraskan Kurikulum Standard Prasekolah Kebangsaan (KSPK). Belajar sambil bermain dengan aktiviti interaktif huruf, nombor, warna, bentuk, haiwan, puzzle, dan mewarna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
